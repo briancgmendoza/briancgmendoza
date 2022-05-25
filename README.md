@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align ="left" alt="briancgmendoza portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align ="left" alt="briancgmendoza linkedin" width="22px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align ="left" alt="briancgmendoza facebook" width="22px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/facebook/facebook-original.svg" />][facebook]
+[<img align ="left" alt="briancgmendoza portfolio" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align ="left" alt="briancgmendoza linkedin" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align ="left" alt="briancgmendoza facebook" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/facebook/facebook-original.svg" />][facebook]
 
 <br />
 
@@ -33,6 +33,8 @@
 <img align="left" alt="Webpack" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gulp" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gulp/gulp-plain.svg" style="padding-right:10px;" />
 
+<br />
+<br />
 <br />
 <br />
 <br />
