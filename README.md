@@ -33,12 +33,20 @@
 <img align="left" alt="Webpack" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gulp" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gulp/gulp-plain.svg" style="padding-right:10px;" />
 
+<br />
+<br />
+<br />
+
 ### Backend & Databases:
 
 <img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Express" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+<br />
 
 ### Tools:
 
@@ -50,6 +58,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="NPM" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="ESLint" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/eslint/eslint-original-wordmark.svg" style="padding-right:10px;"/>
+
+<br />
+<br />
+<br />
 
 ### Things I want to learn in the future:
 
