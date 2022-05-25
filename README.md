@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align ="left" alt="briancgmendoza portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align ="left" alt="briancgmendoza linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align ="left" alt="briancgmendoza facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align ="left" alt="briancgmendoza portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://briancgmendoza-portfolio.vercel.app/]
+[<img align ="left" alt="briancgmendoza linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/briancgmendoza/]
+[<img align ="left" alt="briancgmendoza facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://web.facebook.com/moon.mendoza.547]
 
 <br />
 
