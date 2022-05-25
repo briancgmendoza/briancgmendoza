@@ -11,24 +11,56 @@
 ### Connect with me:
 
 [<img align ="left" alt="briancgmendoza portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align ="left" alt="briancgmendoza linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align ="left" alt="briancgmendoza facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align ="left" alt="briancgmendoza linkedin" width="22px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align ="left" alt="briancgmendoza facebook" width="22px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/facebook/facebook-original.svg" />][facebook]
 
 <br />
 
-### Languages and Tools:
+### Things I know:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
+<img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="MaterialUI" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Redux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NextJS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain-wordmark.svg " style="padding-right:10px;" />
+<img align="left" alt="Babel" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/babel/babel-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Webpack" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Gulp" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gulp/gulp-plain.svg" style="padding-right:10px;" />
+
+### Backend & Databases:
+
+<img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Express" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />
+
+### Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Jenkins" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jira" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="NPM" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="ESLint" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/eslint/eslint-original-wordmark.svg" style="padding-right:10px;"/>
+
+### Things I want to learn in the future:
+
+<img align="left" alt="ThreeJS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/threejs/threejs-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Kotlin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Kubernetes" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Aws" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Azure" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Nginx" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
 
 [portfolio]: https://briancgmendoza-portfolio.vercel.app/
 [linkedin]: https://www.linkedin.com/in/briancgmendoza/
