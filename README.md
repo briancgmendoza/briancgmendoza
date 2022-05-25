@@ -1,6 +1,6 @@
 ### Hi there, I'm Brian Christopher Mendoza - aka Chiza 👋.
 
-## I'm a Developer specializing in JavaScript.
+## I'm a Web Developer who likes JavaScript and TypeScript.
 
 - 🔭 I'm currently looking for new work.
 - 🌱 I'm currently learning Backend stuff with NodeJS - Express.
