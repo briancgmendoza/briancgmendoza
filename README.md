@@ -32,8 +32,8 @@
 <img align="left" alt="NextJS" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain-wordmark.svg " style="padding-right:10px;" />
 <img align="left" alt="Babel" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/babel/babel-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Webpack" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" style="margin-top: 10px; padding-right:10px;" />
-<img align="left" alt="Gulp" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gulp/gulp-plain.svg" style="margin-top: 10px; padding-right:10px;" />
+<img align="left" alt="Webpack" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" style="padding-top: 10px; padding-right:10px;" />
+<img align="left" alt="Gulp" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gulp/gulp-plain.svg" style="padding-top: 10px; padding-right:10px;" />
 
 <br />
 <br />
