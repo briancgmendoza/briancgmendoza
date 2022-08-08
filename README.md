@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer who likes JavaScript and TypeScript.
 
-- 🔭 I'm currently looking for new work.
+- 🔭 I'm currently working as a Professional Web Developer at Erni Philippines.
 - 🌱 I'm currently learning Backend stuff with NodeJS - Express.
 - 👯 I'm a team player! I love to collaborate or work with others.
 - 🥅 My long term career goal is to become a Fullstack Developer and learn more about ThreeJS
